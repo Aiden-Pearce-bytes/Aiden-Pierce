@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aiden-Pierce
-- 👀 I’m interested in 
+- 👀 I’m interested in Website Development , UI/UX design
 - 🌱 I’m currently learning React & Angular
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me +91-7904902105
 
 <!---
