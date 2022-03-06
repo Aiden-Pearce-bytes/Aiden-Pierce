@@ -2,7 +2,7 @@
 - 👀 I’m interested in Website Development , UI/UX design
 - 🌱 I’m currently learning React & Angular
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me +91-7904902105
+- 📫 How to reach me dineshkumarr0597@gmail.com
 
 <!---
 Aiden-Pierce/Aiden-Pierce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
