@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aiden-Pierce
 - 👀 I’m interested in Website Development , UI/UX design
-- 🌱 I’m currently learning React & Angular
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning React and R-Native
+- 💞️ I’m looking to collaborate on Front End Development projects(Apps & Websites)
 - 📫 How to reach me dineshkumarr0597@gmail.com
 
 <!---
